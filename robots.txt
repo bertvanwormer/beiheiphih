@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auwooxiem.leodev.org/sitemap.xml
